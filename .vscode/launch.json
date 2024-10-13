@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TypeCasting_Truncation",
+            "request": "launch",
+            "mainClass": "TypeCasting_Truncation",
+            "projectName": "Java_f626f949"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
