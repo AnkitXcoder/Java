@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "DSA.array",
+            "projectName": "Java_ddc8cfa8"
+        },
+        {
+            "type": "java",
+            "name": "Method_overloading",
+            "request": "launch",
+            "mainClass": "Method_overloading",
+            "projectName": "Java_ddc8cfa8"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_ddc8cfa8"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting_Truncation",
+            "request": "launch",
+            "mainClass": "TypeCasting_Truncation",
+            "projectName": "Java_ddc8cfa8"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_ddc8cfa8"
+        },
+        {
+            "type": "java",
             "name": "TypeCasting_Truncation",
             "request": "launch",
             "mainClass": "TypeCasting_Truncation",
